@@ -1,0 +1,218 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{\textbf{E}}]\begingroup Electric Field Vector\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{e}$_i$}]\begingroup Polarisation of Incident Light\nomeqref {1.0}\nompageref{1}
+  \item [{$\textbf{E}_L$}]\begingroup Laser Electric Field Vector\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{e}$_s$}]\begingroup Polarisation of Scattered Light\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{G}}]\begingroup Brillouin-Zone-Boundary Reciprocal Lattice Vector\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{k}$_L$}]\begingroup Laser Photon Wavevector\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{P}$_0$}]\begingroup Polarisation In Phase with Electric Field\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{P}\textsubscript{ind}}]\begingroup Polarisation Induced by Phonon\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{P}}]\begingroup Polarisation Vector\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{Q}}]\begingroup Atomic Displacement Vector\nomeqref {1.0}\nompageref{1}
+  \item [{$A$}]\begingroup Optical Absorbance\nomeqref {1.0}\nompageref{1}
+  \item [{$a$}]\begingroup Atomic Bond Length\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{A}}]\begingroup Electromagnetic Vector Potential\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{a}}]\begingroup Lattice Constant\nomeqref {1.0}\nompageref{1}
+  \item [{\textit{c}}]\begingroup Speed of Light\nomeqref {1.0}\nompageref{1}
+  \item [{$d$}]\begingroup Inter-Layer Spacing\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{D}}]\begingroup Dynamical Matrix\nomeqref {1.0}\nompageref{1}
+  \item [{$E$}]\begingroup Young's Modulus\nomeqref {1.0}\nompageref{1}
+  \item [{E$_{2g}$}]\begingroup Doubly Degenerate Raman-Active Phonon Mode with E$_{2g}$ Symmetry\nomeqref {1.0}\nompageref{1}
+  \item [{E$_{2g}$}]\begingroup Raman-Active Phonon Mode with A$_{1g}$ Symmetry\nomeqref {1.0}\nompageref{1}
+  \item [{\textit{e}}]\begingroup Electronic Charge\nomeqref {1.0}\nompageref{1}
+  \item [{$E_\text{cut}$}]\begingroup Cutoff Energy\nomeqref {1.0}\nompageref{1}
+  \item [{$E_F$}]\begingroup Fermi Energy\nomeqref {1.0}\nompageref{1}
+  \item [{$E_{GS}$}]\begingroup Ground-State Energy\nomeqref {1.0}\nompageref{1}
+  \item [{$E$, $E(\textbf{k})$, $\epsilon$}]\begingroup Energy\nomeqref {1.0}\nompageref{1}
+  \item [{$E_L$}]\begingroup Laser Photon Energy\nomeqref {1.0}\nompageref{1}
+  \item [{$E_\text{phon}$}]\begingroup Phonon Energy\nomeqref {1.0}\nompageref{1}
+  \item [{$E_\text{WE}$}]\begingroup Working Electrode Potential\nomeqref {1.0}\nompageref{1}
+  \item [{$E_\text{XC}[n]$}]\begingroup Exchange-Correlation Functional\nomeqref {1.0}\nompageref{1}
+  \item [{$\ket{f}$}]\begingroup Final Quantum State\nomeqref {1.0}\nompageref{1}
+  \item [{$\ket{s_n}$}]\begingroup Intermediate Quantum State\nomeqref {1.0}\nompageref{1}
+  \item [{$\mathcal{F}$}]\begingroup Density Response Function\nomeqref {1.0}\nompageref{1}
+  \item [{$f(E)$, $f(\epsilon)$}]\begingroup Fermi-Dirac Distribution\nomeqref {1.0}\nompageref{1}
+  \item [{$F_{tu}$}]\begingroup Ultimate Tensile Strength\nomeqref {1.0}\nompageref{1}
+  \item [{$g^2$}]\begingroup Electron-Phonon Coupling Strength\nomeqref {1.0}\nompageref{1}
+  \item [{$g(\epsilon)$}]\begingroup Density of States\nomeqref {1.0}\nompageref{1}
+  \item [{$g_s$}]\begingroup Electronic Spin Degeneracy\nomeqref {1.0}\nompageref{1}
+  \item [{$g_v$}]\begingroup Electronic Valley Degeneracy\nomeqref {1.0}\nompageref{1}
+  \item [{$\hham$}]\begingroup Hamiltonian Operator\nomeqref {1.0}\nompageref{1}
+  \item [{$\hbar$}]\begingroup Reduced Planck's Constant\nomeqref {1.0}\nompageref{1}
+  \item [{$\ket{i}$}]\begingroup Initial Quantum State\nomeqref {1.0}\nompageref{1}
+  \item [{$I$}]\begingroup Current\nomeqref {1.0}\nompageref{1}
+  \item [{$V$}]\begingroup Voltage\nomeqref {1.0}\nompageref{1}
+  \item [{$I_i$}]\begingroup Incident Radiation Intensity\nomeqref {1.0}\nompageref{1}
+  \item [{$I_s$}]\begingroup Scattered Radiation Intensity\nomeqref {1.0}\nompageref{1}
+  \item [{$k$}]\begingroup Boltzmann's Constant\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{k}}]\begingroup Electronic Momentum, Wavevector\nomeqref {1.0}\nompageref{1}
+  \item [{$\textbf{k}_F$}]\begingroup Fermi Wavevector\nomeqref {1.0}\nompageref{1}
+  \item [{$L_a$}]\begingroup Characteristic Crystallite Size\nomeqref {1.0}\nompageref{1}
+  \item [{$L_D$}]\begingroup Characteristic Defect Size\nomeqref {1.0}\nompageref{1}
+  \item [{$L_L$}]\begingroup Laser Spot Size\nomeqref {1.0}\nompageref{1}
+  \item [{$\mathcal{M}$}]\begingroup Matrix Element\nomeqref {1.0}\nompageref{1}
+  \item [{$m^*$}]\begingroup Effective Mass\nomeqref {1.0}\nompageref{1}
+  \item [{$m_0$}]\begingroup Rest Mass\nomeqref {1.0}\nompageref{1}
+  \item [{$n$}]\begingroup Charge Carrier Density\nomeqref {1.0}\nompageref{1}
+  \item [{$n(\hbar\Omega)$}]\begingroup Bose-Eistein Distribution\nomeqref {1.0}\nompageref{1}
+  \item [{$n_0$}]\begingroup Ground State Electron Density\nomeqref {1.0}\nompageref{1}
+  \item [{$n_D$}]\begingroup Defect Density\nomeqref {1.0}\nompageref{1}
+  \item [{$n_\text{Li}$}]\begingroup Lithium Ion Density\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{p}}]\begingroup Classical Momentum\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{p}$_f$}]\begingroup Final Photon Momentum\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{p}$_i$}]\begingroup Incident Photon Momentum\nomeqref {1.0}\nompageref{1}
+  \item [{$Q$, $q$}]\begingroup Charge\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{q}}]\begingroup Phonon Momentum\nomeqref {1.0}\nompageref{1}
+  \item [{\textbf{r}}]\begingroup Position Vector\nomeqref {1.0}\nompageref{1}
+  \item [{$\Re$}]\begingroup Raman Tensor\nomeqref {1.0}\nompageref{1}
+  \item [{$s,j$}]\begingroup Band and Sub-band Indices\nomeqref {1.0}\nompageref{1}
+  \item [{$S(\textbf{k})$}]\begingroup Overlap Integral\nomeqref {1.0}\nompageref{1}
+  \item [{$t$}]\begingroup Time, Hopping Energy\nomeqref {1.0}\nompageref{1}
+  \item [{$T$}]\begingroup Temperature\nomeqref {1.0}\nompageref{1}
+  \item [{$T_o$}]\begingroup Optical Transmission Coefficient\nomeqref {1.0}\nompageref{1}
+  \item [{$v_F$}]\begingroup Fermi Velocity\nomeqref {1.0}\nompageref{1}
+  \item [{$V_\text{ext}$}]\begingroup External Potential\nomeqref {1.0}\nompageref{1}
+  \item [{$V_g$}]\begingroup Gate Voltage\nomeqref {1.0}\nompageref{1}
+  \item [{$W$}]\begingroup Phonon Weighting Function\nomeqref {1.0}\nompageref{1}
+  \item [{$xyz$}]\begingroup Cartesian Coordinates\nomeqref {1.0}\nompageref{1}
+  \item [{$Z$}]\begingroup Nuclear Charge\nomeqref {1.0}\nompageref{1}
+\nomgroup{G}
+  \item [{$\alpha$}]\begingroup Fine Structure Constant\nomeqref {1.0}\nompageref{1}
+  \item [{$\chi$}]\begingroup Electric Susceptibility\nomeqref {1.0}\nompageref{1}
+  \item [{$\Delta$}]\begingroup Change, Difference\nomeqref {1.0}\nompageref{1}
+  \item [{$\delta$}]\begingroup Broadening Parameter\nomeqref {1.0}\nompageref{1}
+  \item [{$\delta_{jj^{\prime}}$}]\begingroup Kronecker Delta\nomeqref {1.0}\nompageref{1}
+  \item [{$\epsilon$}]\begingroup Tensile Strain\nomeqref {1.0}\nompageref{1}
+  \item [{$\gamma$}]\begingroup Scattering Rate, Gr\"uneisen Parameter\nomeqref {1.0}\nompageref{1}
+  \item [{$\gamma_D$}]\begingroup Scattering Rate from Defects\nomeqref {1.0}\nompageref{1}
+  \item [{$\gamma_ee$}]\begingroup Electron-Electron Scattering Rate\nomeqref {1.0}\nompageref{1}
+  \item [{$\gamma_{e-ph}$}]\begingroup Electron-Phonon Scattering Rate\nomeqref {1.0}\nompageref{1}
+  \item [{$\gamma_n$}]\begingroup Hopping Parameter\nomeqref {1.0}\nompageref{1}
+  \item [{$\lambda$}]\begingroup Wavelength, Characteristic Length\nomeqref {1.0}\nompageref{1}
+  \item [{$\mu$}]\begingroup Transition Moment Operator\nomeqref {1.0}\nompageref{1}
+  \item [{$\Omega_q^\nu$}]\begingroup Phonon Frequency of Mode $\nu$ at Wavevector \textbf{q}\nomeqref {1.0}\nompageref{1}
+  \item [{$\omega(q)$}]\begingroup Phonon Dispersion\nomeqref {1.0}\nompageref{1}
+  \item [{$\omega_{0}$}]\begingroup Equilibrium Phonon Frequency\nomeqref {1.0}\nompageref{1}
+  \item [{$\omega_L$}]\begingroup Laser Photon Frequency\nomeqref {1.0}\nompageref{1}
+  \item [{$\omega_{sc}$}]\begingroup Scattered Photon Frequency\nomeqref {1.0}\nompageref{1}
+  \item [{$\Pi$}]\begingroup Phonon Self-Energy\nomeqref {1.0}\nompageref{1}
+  \item [{$\Psi$, $\psi$, $\Phi$}]\begingroup Wavefunction\nomeqref {1.0}\nompageref{1}
+  \item [{$\rho$}]\begingroup Resistivity, Density\nomeqref {1.0}\nompageref{1}
+  \item [{$\sigma$}]\begingroup Tensile Stress\nomeqref {1.0}\nompageref{1}
+  \item [{$\tau$}]\begingroup Relaxation Time\nomeqref {1.0}\nompageref{1}
+  \item [{$\theta(x)$}]\begingroup Heaviside Step Function\nomeqref {1.0}\nompageref{1}
+  \item [{$\theta_d$}]\begingroup Angle of Diffraction\nomeqref {1.0}\nompageref{1}
+  \item [{$\theta_i$}]\begingroup Angle of Incidence\nomeqref {1.0}\nompageref{1}
+\nomgroup{X}
+  \item [{$\gamma$}]\begingroup Photon\nomeqref {1.0}\nompageref{1}
+  \item [{A(2D)}]\begingroup Area of the 2D Peak\nomeqref {1.0}\nompageref{1}
+  \item [{ABO}]\begingroup Adiabatic Born-Oppenheimer Approximation\nomeqref {1.0}\nompageref{1}
+  \item [{A(D)}]\begingroup Area of the D Peak\nomeqref {1.0}\nompageref{1}
+  \item [{A(G)}]\begingroup Area of the G Peak\nomeqref {1.0}\nompageref{1}
+  \item [{AS}]\begingroup Anti-Stokes\nomeqref {1.0}\nompageref{1}
+  \item [{A(Si)}]\begingroup Area of the Si Peak\nomeqref {1.0}\nompageref{1}
+  \item [{a-Si}]\begingroup Amorphous Silicon\nomeqref {1.0}\nompageref{1}
+  \item [{Asymmetry(G)}]\begingroup Asymmetry of the G Peak\nomeqref {1.0}\nompageref{1}
+  \item [{BET}]\begingroup Brunauer–Emmett–Teller\nomeqref {1.0}\nompageref{1}
+  \item [{BLG}]\begingroup Bilayer Graphene\nomeqref {1.0}\nompageref{1}
+  \item [{BWF}]\begingroup Breit-Wigner-Fano\nomeqref {1.0}\nompageref{1}
+  \item [{BZ}]\begingroup Brillouin Zone\nomeqref {1.0}\nompageref{1}
+  \item [{CAGR}]\begingroup Compound Annual Growth Rate\nomeqref {1.0}\nompageref{1}
+  \item [{CB}]\begingroup Conduction Band\nomeqref {1.0}\nompageref{1}
+  \item [{CBM}]\begingroup Conduction Band Minimum\nomeqref {1.0}\nompageref{1}
+  \item [{CCD}]\begingroup Charge-Coupled Device\nomeqref {1.0}\nompageref{1}
+  \item [{CE}]\begingroup Counter Electrode\nomeqref {1.0}\nompageref{1}
+  \item [{COP}]\begingroup Conference of the Parties\nomeqref {1.0}\nompageref{1}
+  \item [{c-Si}]\begingroup Crystalline Silicon\nomeqref {1.0}\nompageref{1}
+  \item [{CV}]\begingroup Cyclic Voltammetry\nomeqref {1.0}\nompageref{1}
+  \item [{CVD}]\begingroup Chemical Vapour Deposition\nomeqref {1.0}\nompageref{1}
+  \item [{DC}]\begingroup Direct Current\nomeqref {1.0}\nompageref{1}
+  \item [{DFPT}]\begingroup Density Functional Perturbation Theory\nomeqref {1.0}\nompageref{1}
+  \item [{DFT}]\begingroup Density Functional Theory\nomeqref {1.0}\nompageref{1}
+  \item [{Disp(2D)}]\begingroup Dispersion of the 2D Peak\nomeqref {1.0}\nompageref{1}
+  \item [{DMC}]\begingroup Dimethyl Carbonate\nomeqref {1.0}\nompageref{1}
+  \item [{DR}]\begingroup Double Resonance\nomeqref {1.0}\nompageref{1}
+  \item [{EBL}]\begingroup Electron Beam Lithography\nomeqref {1.0}\nompageref{1}
+  \item [{EC}]\begingroup Ethylene Carbonate\nomeqref {1.0}\nompageref{1}
+  \item [{EIS}]\begingroup Electrochemical Impedance Spectroscopy\nomeqref {1.0}\nompageref{1}
+  \item [{EM}]\begingroup Electromagnetic\nomeqref {1.0}\nompageref{1}
+  \item [{EPC}]\begingroup Electron-Phonon Coupling\nomeqref {1.0}\nompageref{1}
+  \item [{EU}]\begingroup European Union\nomeqref {1.0}\nompageref{1}
+  \item [{EV}]\begingroup Electric Vehicle\nomeqref {1.0}\nompageref{1}
+  \item [{FLG}]\begingroup Few-Layer Graphene\nomeqref {1.0}\nompageref{1}
+  \item [{FWHM(2D)}]\begingroup Full Width and Half-Maximum of the 2D Peak\nomeqref {1.0}\nompageref{1}
+  \item [{FWHM(D)}]\begingroup Full Width and Half-Maximum of the D Peak\nomeqref {1.0}\nompageref{1}
+  \item [{FWHM(G)}]\begingroup Full Width and Half-Maximum of the G Peak\nomeqref {1.0}\nompageref{1}
+  \item [{FWHM(Si)}]\begingroup Full Width and Half-Maximum of the Si Peak\nomeqref {1.0}\nompageref{1}
+  \item [{GCPL}]\begingroup Galvanostatic Cycling with Potential Limitation\nomeqref {1.0}\nompageref{1}
+  \item [{GFET}]\begingroup Graphene Field Effect Transistor\nomeqref {1.0}\nompageref{1}
+  \item [{GGA}]\begingroup Generalised Gradient Approximation\nomeqref {1.0}\nompageref{1}
+  \item [{GIC}]\begingroup Graphite Intercalation Compound\nomeqref {1.0}\nompageref{1}
+  \item [{Gt\ce{CO_2}}]\begingroup Gigatonnes of Carbon Dioxide\nomeqref {1.0}\nompageref{1}
+  \item [{HK}]\begingroup Hohenberg-Kohn\nomeqref {1.0}\nompageref{1}
+  \item [{HOPG}]\begingroup Highly Oriented Pyrolytic Graphite\nomeqref {1.0}\nompageref{1}
+  \item [{HPH}]\begingroup High-Pressure Homogenisation\nomeqref {1.0}\nompageref{1}
+  \item [{HUP}]\begingroup Heisenberg's Uncertainty Principle\nomeqref {1.0}\nompageref{1}
+  \item [{I(2D)}]\begingroup Intensity of the 2D Peak\nomeqref {1.0}\nompageref{1}
+  \item [{I(D)}]\begingroup Intensity of the D Peak\nomeqref {1.0}\nompageref{1}
+  \item [{I(G)}]\begingroup Intensity of the G Peak\nomeqref {1.0}\nompageref{1}
+  \item [{IPA}]\begingroup Isopropyl Alcohol (Propan-2-ol)\nomeqref {1.0}\nompageref{1}
+  \item [{IR}]\begingroup Infrared\nomeqref {1.0}\nompageref{1}
+  \item [{I(Si)}]\begingroup Intensity of the Si Peak\nomeqref {1.0}\nompageref{1}
+  \item [{KA}]\begingroup Kohn Anomaly\nomeqref {1.0}\nompageref{1}
+  \item [{KS}]\begingroup Kohn-Sham\nomeqref {1.0}\nompageref{1}
+  \item [{LA}]\begingroup Longitudinal Acoustic\nomeqref {1.0}\nompageref{1}
+  \item [{LDA}]\begingroup Local Density Approximation\nomeqref {1.0}\nompageref{1}
+  \item [{LFP}]\begingroup Lithium Iron Phosphate\nomeqref {1.0}\nompageref{1}
+  \item [{LIB}]\begingroup Lithium-Ion Battery\nomeqref {1.0}\nompageref{1}
+  \item [{LM}]\begingroup Layered Material\nomeqref {1.0}\nompageref{1}
+  \item [{LO}]\begingroup Longitudinal Optical\nomeqref {1.0}\nompageref{1}
+  \item [{LPE}]\begingroup Liquid-Phase Exfoliation\nomeqref {1.0}\nompageref{1}
+  \item [{MC}]\begingroup Micromechanical Cleavage\nomeqref {1.0}\nompageref{1}
+  \item [{MLG}]\begingroup Multi-Layer Graphene\nomeqref {1.0}\nompageref{1}
+  \item [{MPI}]\begingroup Message Passing Interface\nomeqref {1.0}\nompageref{1}
+  \item [{NA}]\begingroup Numerical Aperture\nomeqref {1.0}\nompageref{1}
+  \item [{NCA}]\begingroup Nickel Cobalt Aluminum Oxide\nomeqref {1.0}\nompageref{1}
+  \item [{\textit{n}d}]\begingroup \textit{n}-Dimensional\nomeqref {1.0}\nompageref{1}
+  \item [{ND}]\begingroup Neutral Density\nomeqref {1.0}\nompageref{1}
+  \item [{NL}]\begingroup Nearest Layer\nomeqref {1.0}\nompageref{1}
+  \item [{NMC}]\begingroup Nickel Manganese Cobalt Oxide\nomeqref {1.0}\nompageref{1}
+  \item [{OCP}]\begingroup Open Circuit Potential\nomeqref {1.0}\nompageref{1}
+  \item [{PAA}]\begingroup Poly(Acrylic Acid)\nomeqref {1.0}\nompageref{1}
+  \item [{PBE}]\begingroup Perdew-Burke-Ernzerhof\nomeqref {1.0}\nompageref{1}
+  \item [{PDOS}]\begingroup Phonon Density of States\nomeqref {1.0}\nompageref{1}
+  \item [{PD}]\begingroup Potential Difference\nomeqref {1.0}\nompageref{1}
+  \item [{PEEK}]\begingroup Polyether Ether Ketone\nomeqref {1.0}\nompageref{1}
+  \item [{PEO}]\begingroup Poly(Ethylene Oxide)\nomeqref {1.0}\nompageref{1}
+  \item [{PMMA}]\begingroup Polymethyl Methacrylate\nomeqref {1.0}\nompageref{1}
+  \item [{Pos(2D)}]\begingroup Position of the 2D Peak\nomeqref {1.0}\nompageref{1}
+  \item [{Pos(G)}]\begingroup Position of the G Peak\nomeqref {1.0}\nompageref{1}
+  \item [{Pos(Si)}]\begingroup Position of the Si Peak\nomeqref {1.0}\nompageref{1}
+  \item [{QM}]\begingroup Quantum Mechanics\nomeqref {1.0}\nompageref{1}
+  \item [{RCF}]\begingroup Richter-Campbell-Fauchet\nomeqref {1.0}\nompageref{1}
+  \item [{RE}]\begingroup Reference Electrode\nomeqref {1.0}\nompageref{1}
+  \item [{R}]\begingroup Raman Active\nomeqref {1.0}\nompageref{1}
+  \item [{SEI}]\begingroup Solid-Electrolyte Interphase\nomeqref {1.0}\nompageref{1}
+  \item [{SiNP}]\begingroup Silicon Nanoparticle\nomeqref {1.0}\nompageref{1}
+  \item [{SLG}]\begingroup Single-Layer Graphene\nomeqref {1.0}\nompageref{1}
+  \item [{SMU}]\begingroup Source Measure Unit\nomeqref {1.0}\nompageref{1}
+  \item [{SNR}]\begingroup Signal-to-Noise Ratio\nomeqref {1.0}\nompageref{1}
+  \item [{S}]\begingroup Stokes\nomeqref {1.0}\nompageref{1}
+  \item [{STP}]\begingroup Standard Temperature and Pressure\nomeqref {1.0}\nompageref{1}
+  \item [{TA}]\begingroup Transverse Acoustic\nomeqref {1.0}\nompageref{1}
+  \item [{TBA}]\begingroup Tight-Binding Approximation\nomeqref {1.0}\nompageref{1}
+  \item [{TEV}]\begingroup Thermal Evaporation\nomeqref {1.0}\nompageref{1}
+  \item [{TO}]\begingroup Transverse Optical\nomeqref {1.0}\nompageref{1}
+  \item [{TR}]\begingroup Triple Resonance\nomeqref {1.0}\nompageref{1}
+  \item [{UHV}]\begingroup Ultra High Vacuum\nomeqref {1.0}\nompageref{1}
+  \item [{VB}]\begingroup Valence Band\nomeqref {1.0}\nompageref{1}
+  \item [{VBM}]\begingroup Valence Band Maximum\nomeqref {1.0}\nompageref{1}
+  \item [{WE}]\begingroup Working Electrode\nomeqref {1.0}\nompageref{1}
+  \item [{XC}]\begingroup Exchange-Correlation\nomeqref {1.0}\nompageref{1}
+  \item [{XRD}]\begingroup X-Ray Diffraction\nomeqref {1.0}\nompageref{1}
+  \item [{ZA}]\begingroup Out-of-Plane Acoustic\nomeqref {1.0}\nompageref{1}
+  \item [{ZO}]\begingroup Out-of-Plane Optical\nomeqref {1.0}\nompageref{1}
+
+\end{thenomenclature}

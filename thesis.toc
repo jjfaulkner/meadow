@@ -1,0 +1,188 @@
+\thispagestyle {empty}
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Abstract}{\EnsureStandardFontEncoding {v}}{chapter*.2}%
+\contentsline {chapter}{Acknowledgements}{\EnsureStandardFontEncoding {vii}}{chapter*.3}%
+\contentsline {chapter}{List of Publications and Conference Contributions}{\EnsureStandardFontEncoding {xi}}{chapter*.4}%
+\contentsline {chapter}{\nonumberline List of Acronyms and Symbols}{\EnsureStandardFontEncoding {xix}}{chapter*.9}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Structure of the Thesis}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Li-Ion Batteries}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Cell Components}{9}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Cathode}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Anode}{9}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Electrolyte and separator}{11}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Electrochemical characterisation}{11}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Energy Storage Mechanisms}{13}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Intercalation of graphite}{13}{subsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.1.1}Modelling intercalation}{13}{subsubsection.2.4.1.1}%
+\contentsline {subsubsection}{\numberline {2.4.1.2}The phase diagram of \ce {Li_x C_6}}{15}{subsubsection.2.4.1.2}%
+\contentsline {subsection}{\numberline {2.4.2}Lithiation of silicon}{16}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Degradation Mechanisms}{19}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Solid-electrolyte interphase}{19}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Mechanical degradation}{21}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Conclusions}{21}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Graphene, Graphite and Intercalation Compounds}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Properties of Graphene}{23}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Electronic band structure}{24}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Bilayer graphene}{28}{subsubsection.3.2.1.1}%
+\contentsline {subsection}{\numberline {3.2.2}Optical properties}{31}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Phonon dispersion}{33}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Mechanical properties}{34}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Production of Graphene}{36}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Micromechanical cleavage}{36}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}High-pressure homogenisation}{37}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Chemical vapour deposition}{38}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Properties of Graphite}{39}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Electronic band structure}{39}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Optical properties}{41}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Phonon dispersion}{41}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Mechanical properties}{42}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Production of graphite}{42}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Natural graphite}{42}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Synthetic graphite}{42}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Properties of Graphite Intercalation Compounds}{42}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Electronic band structure}{43}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Optical properties}{43}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Phonon dispersion}{43}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}Production of Graphite Intercalation Compounds}{45}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Electrochemical intercalation}{45}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Chemical intercalation}{46}{subsection.3.7.2}%
+\contentsline {section}{\numberline {3.8}Conclusions}{46}{section.3.8}%
+\contentsline {chapter}{\numberline {4}Raman Spectroscopy}{49}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{49}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Classical Theory}{50}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Stokes and anti-Stokes scattering}{50}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}The Raman tensor}{52}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Quantum Mechanical Theory}{53}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Inelastic photon scattering and selection rules}{53}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}The Raman matrix element}{57}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Raman instrumentation}{58}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}\textit {Ex-situ} Raman Spectroscopy}{61}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}\textit {In-situ} Raman Spectroscopy}{62}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}\textit {Operando} Raman Spectroscopy}{63}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Previous work}{63}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}Conclusions}{66}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Raman Spectroscopy of Graphene, Graphite and Silicon}{69}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{69}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Electronic transitions and phonon interactions}{69}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Raman-active processes}{70}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Dependence on number and relative orientation of layers}{74}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Dependence on strain}{75}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Dependence on defect density}{77}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Dependence on doping}{78}{section.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.0.1}Adiabatic effects}{78}{subsubsection.5.7.0.1}%
+\contentsline {subsubsection}{\numberline {5.7.0.2}Dynamic effects}{79}{subsubsection.5.7.0.2}%
+\contentsline {subsubsection}{\numberline {5.7.0.3}FWHM(D): scattering}{81}{subsubsection.5.7.0.3}%
+\contentsline {subsubsection}{\numberline {5.7.0.4}Peak areas}{82}{subsubsection.5.7.0.4}%
+\contentsline {section}{\numberline {5.8}Dependence on excitation energy}{83}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Silicon}{83}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}Introduction}{83}{subsection.5.9.1}%
+\contentsline {subsection}{\numberline {5.9.2}Phonon Dispersion}{84}{subsection.5.9.2}%
+\contentsline {subsection}{\numberline {5.9.3}Spectrum Features}{84}{subsection.5.9.3}%
+\contentsline {subsection}{\numberline {5.9.4}Dependence on Strain}{86}{subsection.5.9.4}%
+\contentsline {subsection}{\numberline {5.9.5}Dependence on Temperature}{86}{subsection.5.9.5}%
+\contentsline {subsection}{\numberline {5.9.6}Phonon Confinement}{87}{subsection.5.9.6}%
+\contentsline {subsubsection}{\numberline {5.9.6.1}Modelling phonon confinement}{89}{subsubsection.5.9.6.1}%
+\contentsline {subsection}{\numberline {5.9.7}Dependence on Lithiation}{91}{subsection.5.9.7}%
+\contentsline {section}{\numberline {5.10}Conclusions}{92}{section.5.10}%
+\contentsline {chapter}{\numberline {6}Setup}{93}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{93}{section.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.0.1}Carrier density during lithiation}{94}{subsubsection.6.1.0.1}%
+\contentsline {subsubsection}{\numberline {6.1.0.2}Electronic effects in GICs}{94}{subsubsection.6.1.0.2}%
+\contentsline {subsubsection}{\numberline {6.1.0.3}Quantitative analysis of Raman peaks}{94}{subsubsection.6.1.0.3}%
+\contentsline {subsubsection}{\numberline {6.1.0.4}Amorphisation in Silicon Nanoparticles}{95}{subsubsection.6.1.0.4}%
+\contentsline {section}{\numberline {6.2}Density Functional Theory}{95}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Modelling many-body systems}{95}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Approximations}{96}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.1}The Born-Oppenheimer approximation}{96}{subsubsection.6.2.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2.2}Hohenberg-Kohn theorems}{97}{subsubsection.6.2.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.3}Kohn-Sham equations and exchange-correlation}{98}{subsubsection.6.2.2.3}%
+\contentsline {subsection}{\numberline {6.2.3}Periodicity}{99}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Relevant calculations}{100}{subsection.6.2.4}%
+\contentsline {section}{\numberline {6.3}Experimental Setup}{100}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}\textit {Operando} cell}{100}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Optics and control software}{102}{subsection.6.3.2}%
+\contentsline {section}{\numberline {6.4}Conclusions}{103}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Computational Results}{107}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Introduction}{107}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Computational Methods}{108}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Effects of inter-layer spacing}{108}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Effects of ion intercalation}{109}{subsection.7.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.2.1}\ce {LiC_6}}{109}{subsubsection.7.2.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2.2}C$_{24}$ and LiC$_{24}$ band structure}{110}{subsubsection.7.2.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.2.3}In-plane charge inhomogeneity}{110}{subsubsection.7.2.2.3}%
+\contentsline {subsection}{\numberline {7.2.3}Data interpretation}{111}{subsection.7.2.3}%
+\contentsline {section}{\numberline {7.3}Phonon Response to Changes in Electron Density}{112}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Adiabatic effects and Fermi level}{112}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Regimes of limiting adiabaticity}{112}{subsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.1}Dirty limit: Born-Oppenheimer approximation}{113}{subsubsection.7.3.2.1}%
+\contentsline {subsubsection}{\numberline {7.3.2.2}Clean limit}{113}{subsubsection.7.3.2.2}%
+\contentsline {subsection}{\numberline {7.3.3}Adiabatic and non-adiabatic effects}{114}{subsection.7.3.3}%
+\contentsline {section}{\numberline {7.4}Analytical Model for Analysis of Intra-Band Transitions}{115}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Intra-band optical conductivity}{115}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Intra-band model interpretation}{118}{subsection.7.4.2}%
+\contentsline {section}{\numberline {7.5}Results and Discussion}{121}{section.7.5}%
+\contentsline {subsubsection}{\numberline {7.5.0.1}Geometry optimisation}{121}{subsubsection.7.5.0.1}%
+\contentsline {subsubsection}{\numberline {7.5.0.2}Inter-layer coupling}{123}{subsubsection.7.5.0.2}%
+\contentsline {subsubsection}{\numberline {7.5.0.3}C$_{24}$ and LiC$_{24}$ band structure}{124}{subsubsection.7.5.0.3}%
+\contentsline {subsubsection}{\numberline {7.5.0.4}\ce {LiC_{24}} and \ce {LiC_{54}}: comparison at \textbf {K}}{125}{subsubsection.7.5.0.4}%
+\contentsline {subsubsection}{\numberline {7.5.0.5}In-plane charge inhomogeneity}{125}{subsubsection.7.5.0.5}%
+\contentsline {subsubsection}{\numberline {7.5.0.6}Fermi energy and lattice constant}{130}{subsubsection.7.5.0.6}%
+\contentsline {subsubsection}{\numberline {7.5.0.7}Phonon frequencies}{130}{subsubsection.7.5.0.7}%
+\contentsline {section}{\numberline {7.6}Conclusions}{136}{section.7.6}%
+\contentsline {chapter}{\numberline {8}\textit {Operando} Raman Results}{137}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Introduction}{137}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Methods: \textit {Operando} Study of \ce {Li^+} Intercalation in Graphite}{138}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Sample fabrication}{138}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Electrical setup}{139}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Spectroscopic setup}{139}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}Data collection}{140}{subsection.8.2.4}%
+\contentsline {section}{\numberline {8.3}Methods: \textit {In-Situ} Multi-Wavelength Study of \ce {Li^+} Intercalation in Graphite}{141}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Sample fabrication}{141}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Electrical setup}{142}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Spectroscopic setup}{142}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Data collection}{142}{subsection.8.3.4}%
+\contentsline {section}{\numberline {8.4}Results and Discussion}{144}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Data overview}{144}{subsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.1.1}Electrochemistry}{145}{subsubsection.8.4.1.1}%
+\contentsline {subsubsection}{\numberline {8.4.1.2}Representative spectra}{148}{subsubsection.8.4.1.2}%
+\contentsline {subsection}{\numberline {8.4.2}1\relax \textsuperscript {st} intercalation}{150}{subsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.4.3}2\relax \textsuperscript {nd} and 3\relax \textsuperscript {rd} intercalation}{154}{subsection.8.4.3}%
+\contentsline {subsubsection}{\numberline {8.4.3.1}Pearson's $r^2$}{155}{subsubsection.8.4.3.1}%
+\contentsline {subsubsection}{\numberline {8.4.3.2}Signal-to-noise ratio}{158}{subsubsection.8.4.3.2}%
+\contentsline {subsubsection}{\numberline {8.4.3.3}Spectral fits and general trends}{159}{subsubsection.8.4.3.3}%
+\contentsline {subsubsection}{\numberline {8.4.3.4}Pre-split (dilute phase) {\normalfont (0 to \qty {3e13}{\per \centi \meter \squared })}}{163}{subsubsection.8.4.3.4}%
+\contentsline {subsubsection}{\numberline {8.4.3.5}Stage 4 {\normalfont (\num {3e13} to \qty {1.3e14}{\per \centi \meter \squared })}}{163}{subsubsection.8.4.3.5}%
+\contentsline {subsubsection}{\numberline {8.4.3.6}DFPT interpretation of G peak splitting}{166}{subsubsection.8.4.3.6}%
+\contentsline {subsubsection}{\numberline {8.4.3.7}Stage 3: adiabatic effects {\normalfont (\qty {1.3e14} to \qty {2.2e14}{\per \centi \meter \squared })}}{172}{subsubsection.8.4.3.7}%
+\contentsline {subsubsection}{\numberline {8.4.3.8}Stage 2: ionic effects {\normalfont (\qty {2.2e14} to \qty {3.3e14}{\per \centi \meter \squared })}}{174}{subsubsection.8.4.3.8}%
+\contentsline {subsubsection}{\numberline {8.4.3.9}Scattering rate analysis}{175}{subsubsection.8.4.3.9}%
+\contentsline {subsubsection}{\numberline {8.4.3.10}De-intercalation}{180}{subsubsection.8.4.3.10}%
+\contentsline {subsection}{\numberline {8.4.4}Multi-wavelength measurements}{181}{subsection.8.4.4}%
+\contentsline {section}{\numberline {8.5}Conclusions}{190}{section.8.5}%
+\contentsline {chapter}{\numberline {9}Lithiation of Si-Graphene Anodes}{193}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Introduction}{193}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Experimental Methods}{194}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Anode preparation}{194}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}Initial \textit {operando} experiments}{194}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}Electrochemical setup}{195}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}Raman measurements}{196}{subsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.2.5}Data processing}{196}{subsection.9.2.5}%
+\contentsline {section}{\numberline {9.3}Results and Discussion}{197}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Conclusions}{204}{section.9.4}%
+\contentsline {chapter}{\numberline {10}Conclusions and Further Work}{207}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Conclusions}{207}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Further Work}{208}{section.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.0.1}Hall bar patterning and electrode deposition}{209}{subsubsection.10.2.0.1}%
+\contentsline {subsubsection}{\numberline {10.2.0.2}Dielectric formulation and deposition}{212}{subsubsection.10.2.0.2}%
+\contentsline {subsubsection}{\numberline {10.2.0.3}Challenges}{212}{subsubsection.10.2.0.3}%
+\contentsline {subsubsection}{\numberline {10.2.0.4}Next steps}{212}{subsubsection.10.2.0.4}%
+\contentsline {chapter}{Bibliography}{215}{chapter*.132}%
+\contentsline {chapter}{Appendix \numberline {A}LabVIEW Script}{249}{appendix.a.A}%
+\contentsline {chapter}{Appendix \numberline {B}\texttt {malbec}: DFT Analysis and Visualisation}{251}{appendix.a.B}%
+\contentsline {chapter}{Appendix \numberline {C}\texttt {grapes}: Peak Fitting and Analysis}{253}{appendix.a.C}%
+\contentsline {chapter}{Appendix \numberline {D}De-intercalation Raman Spectra}{255}{appendix.a.D}%
+\contentsline {chapter}{Appendix \numberline {E}\texttt {chablis}: Nanoparticle Raman Analysis}{257}{appendix.a.E}%

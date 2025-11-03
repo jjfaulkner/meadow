@@ -1,0 +1,3 @@
+\thispagestyle {empty}
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Cosmos}{1}{chapter.1}%
