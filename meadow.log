@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.11)  4 NOV 2025 23:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.11)  4 NOV 2025 23:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -14,10 +14,13 @@ LaTeX Warning: You have requested document class `Classes/PhDThesisPSnPDF',
 
 Document Class: PhDThesisPSnPDF 2016/04/23 A book about me and you.
 https://github.com/kks32/phd-thesis-template/
+
+Class PhDThesisPSnPDF Warning: The University of Cambridge PhD thesis guidelines recommend using a minimum font size of 11pt (12pt is preferred) and 10pt for footnotes. on input line 237.
+
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/bk11.clo
-File: bk11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count188
 \c@chapter=\count189
@@ -1374,15 +1377,15 @@ Package hyperref Info: Link coloring ON on input line 110.
 * \textheight=448.1309pt
 * \oddsidemargin=-7.18433pt
 * \evensidemargin=-21.41068pt
-* \topmargin=-29.4553pt
+* \topmargin=-27.649pt
 * \headheight=14.5pt
-* \headsep=19.8738pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=106.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=115.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1429,11 +1432,11 @@ LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 1
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 114.
+(Font)              <10> on input line 114.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 114.
+(Font)              <7> on input line 114.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 114.
+(Font)              <5> on input line 114.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 114.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1470,14 +1473,15 @@ File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
  (./Dedication/dedication.tex [2
 
 
-]) [3] [4] (./meadow.toc)
+]) [3] [4
+
+
+
+] (./meadow.toc)
 \tf@toc=\write7
 \openout7 = `meadow.toc'.
 
  [5
-
-
-
 
 ] [6
 
@@ -1505,15 +1509,15 @@ Package rerunfilecheck Info: File `meadow.out' has not changed.
 (rerunfilecheck)             Checksum: 08F047630B716E98B753568158E38D47;168.
  ) 
 Here is how much of TeX's memory you used:
- 45687 strings out of 474116
- 1049114 string characters out of 5743681
- 1933187 words of memory out of 5000000
- 67140 multiletter control sequences out of 15000+600000
- 624601 words of font info for 135 fonts, out of 8000000 for 9000
+ 45694 strings out of 474116
+ 1049037 string characters out of 5743681
+ 1934187 words of memory out of 5000000
+ 67138 multiletter control sequences out of 15000+600000
+ 624333 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,11n,121p,1041b,948s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,12n,121p,1041b,948s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on meadow.pdf (10 pages, 137895 bytes).
+Output written on meadow.pdf (10 pages, 137329 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
