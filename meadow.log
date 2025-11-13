@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.11)  7 NOV 2025 22:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.11)  13 NOV 2025 10:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1292,7 +1292,7 @@ Package siunitx Info: Option "separate-uncertainty" has been deprecated in
 (siunitx)             
 (siunitx)             Use "uncertainty-mode = separate" as a replacement.
 
-) (./meadow-info.tex) (./meadow.aux (./Dedication/dedication.aux) (./chapter_chaos/chapter_chaos.aux) (./chapter_consciousness/chapter_consciousness.aux))
+) (./meadow-info.tex) (./meadow.aux (./Dedication/dedication.aux) (./chapter_chaos/chapter_chaos.aux) (./chapter_consciousness/chapter_consciousness.aux) (./chapter_balance/chapter_balance.aux))
 \openout1 = `meadow.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
@@ -1506,31 +1506,37 @@ File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
 
 ]
 Chapter 2.
-[5] [6] [7] [8{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]) [9{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [10
+[5] [6] [7] [8{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]) [9{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+\openout2 = `chapter_balance/chapter_balance.aux'.
+
+ (./chapter_balance/chapter_balance.tex [10
 
 
 
-] (./meadow.ind) (./meadow.aux (./Dedication/dedication.aux) (./chapter_chaos/chapter_chaos.aux) (./chapter_consciousness/chapter_consciousness.aux))
+
+]
+Chapter 3.
+) [11] [12] (./meadow.ind) (./meadow.aux (./Dedication/dedication.aux) (./chapter_chaos/chapter_chaos.aux) (./chapter_consciousness/chapter_consciousness.aux) (./chapter_balance/chapter_balance.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `meadow.out' has not changed.
-(rerunfilecheck)             Checksum: 97E382D48C4A6D50DE57885DA82F8BEF;288.
+(rerunfilecheck)             Checksum: 63B4BD7DA62754E5EE3986B8E64EB261;378.
  ) 
 Here is how much of TeX's memory you used:
- 45771 strings out of 474116
- 1050998 string characters out of 5743681
+ 45807 strings out of 474116
+ 1052239 string characters out of 5743681
  1934187 words of memory out of 5000000
- 67157 multiletter control sequences out of 15000+600000
- 626181 words of font info for 155 fonts, out of 8000000 for 9000
+ 67176 multiletter control sequences out of 15000+600000
+ 626430 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,12n,121p,1041b,948s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cbfonts/grmn1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on meadow.pdf (16 pages, 192701 bytes).
+Output written on meadow.pdf (18 pages, 196156 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 34853 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 175 PDF objects out of 1000 (max. 8388607)
+ 130 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
+ 34861 words of extra memory for PDF output out of 35830 (max. 10000000)
 

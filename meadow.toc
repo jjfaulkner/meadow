@@ -2,3 +2,4 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Cosmos}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Consciousness}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Balance}{11}{chapter.3}%

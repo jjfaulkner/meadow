@@ -446,6 +446,9 @@ INPUT chapter_chaos/chapter_chaos.aux
 INPUT ./chapter_consciousness/chapter_consciousness.aux
 INPUT ./chapter_consciousness/chapter_consciousness.aux
 INPUT chapter_consciousness/chapter_consciousness.aux
+INPUT ./chapter_balance/chapter_balance.aux
+INPUT ./chapter_balance/chapter_balance.aux
+INPUT chapter_balance/chapter_balance.aux
 OUTPUT meadow.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
@@ -576,6 +579,12 @@ INPUT chapter_consciousness/chapter_consciousness.tex
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT ./chapter_balance/chapter_balance.tex
+INPUT ./chapter_balance/chapter_balance.tex
+OUTPUT chapter_balance/chapter_balance.aux
+INPUT ./chapter_balance/chapter_balance.tex
+INPUT ./chapter_balance/chapter_balance.tex
+INPUT chapter_balance/chapter_balance.tex
 INPUT ./meadow.ind
 INPUT ./meadow.ind
 INPUT meadow.ind
@@ -589,6 +598,9 @@ INPUT chapter_chaos/chapter_chaos.aux
 INPUT ./chapter_consciousness/chapter_consciousness.aux
 INPUT ./chapter_consciousness/chapter_consciousness.aux
 INPUT chapter_consciousness/chapter_consciousness.aux
+INPUT ./chapter_balance/chapter_balance.aux
+INPUT ./chapter_balance/chapter_balance.aux
+INPUT chapter_balance/chapter_balance.aux
 INPUT ./meadow.out
 INPUT ./meadow.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/cbfonts/grmn1000.pfb
